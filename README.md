@@ -61,8 +61,4 @@ Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements or new features.
 
-License
-
-This project is licensed under the MIT License.
-
 Happy pathfinding! 🚀
